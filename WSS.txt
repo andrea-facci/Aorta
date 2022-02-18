@@ -1,0 +1,3 @@
+Title: Wall shear stress contours
+
+Description: Wall shear stress contours for a cardiac cycle and all models.
